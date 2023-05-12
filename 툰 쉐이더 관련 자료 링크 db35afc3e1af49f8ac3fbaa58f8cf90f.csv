@@ -1,0 +1,25 @@
+﻿이름,자료 링크,간단 요약,태그
+From mobile to high-end PC: Achieving high quality anime style rendering on Unity,https://www.youtube.com/watch?v=egHSE0dpWRw,,
+Nilo URP Shader,https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample,카툰쉐이더,"Cartoon, NPR, Shader, Unity"
+OutLine 강의 영상,https://www.youtube.com/watch?v=LMqio9NsqmM&ab_channel=RobinSeibold,좀 딥해서 맘에듬,"Pipeline, Shader, Unity, ZTest"
+Real Toon,https://assetstore.unity.com/packages/vfx/shaders/realtoon-an-anime-toon-shader-65518,,
+Rendering pipeline 기본 설명,https://zhuanlan.zhihu.com/p/569862136,렌더링 파이프라인의 구성 전반적인 설명,"Core, Pipeline, Shader, Unity"
+SDF Face Shadow,https://blog.csdn.net/qjh5606/article/details/119958786,SDF Face Shader,"Cartoon, Hair, NPR, SDF, Shader, Shadow, Unity"
+SDF Face Shadow 2,https://zhuanlan.zhihu.com/p/361716315,SDF Face Shader,"Cartoon, NPR, SDF, Shader, Shadow, Unity"
+SDF Face Shadow 3,https://zhuanlan.zhihu.com/p/279334552,SDF Face Shader,"Cartoon, NPR, SDF, Shader, Shadow, Unity"
+SDF Face Shadow more deep,https://zhuanlan.zhihu.com/p/573920199,SDF Face Shader,"Cartoon, NPR, SDF, Shader, Shadow, Unity"
+SDF Face Shadow Video Course,https://www.youtube.com/watch?v=LKR1ITdOeKM,영상자료,"Cartoon, NPR, SDF, Shader, Shadow, Unity"
+SDF Face Shadow Video Course 2,https://www.artstation.com/artwork/wJZ4Gg,영상자료,"Cartoon, NPR, SDF, Shader, Shadow, Unity"
+Toon Shader Graph Custom Shadow,https://youtu.be/gw31oF9qITw,"친절한 설명, Main, Additional","Cartoon, NPR, Shader, Shadow, Unity"
+UniToon,https://github.com/yoship1639/UniToon,,
+반실사 카툰 렌더링 통찰1 개요,https://zhuanlan.zhihu.com/p/561494026,반실사 NPR에 대한 사실적인 카툰렌더링 설명,"Cartoon, NPR, Reality, Shader, Unity"
+반실사 카툰 렌더링의 통찰2 피부 SSS,https://zhuanlan.zhihu.com/p/548788797,반실사 NPR에 대한 사실적인 카툰렌더링 설명+코드,"Cartoon, NPR, Reality, Shader, Unity"
+실사풍 Hair Shader,https://zhuanlan.zhihu.com/p/53407479,언리얼 진영 Hair 표현법,"Cartoon, NPR, Reality, Shader, Unreal"
+아웃 라인 처리 방식 모음,https://teodutra.com/unity/shaders/outline/2018/03/26/Outline-shaders/,,
+카툰 렌더링 디테일 종합,https://zhuanlan.zhihu.com/p/551104542,카툰 렌더링 전반에 대한 구체적인 설명 + 코드,"Cartoon, NPR, Shader, Unity"
+카툰 렌더링 디테일 종합2,https://zhuanlan.zhihu.com/p/163791090,카툰 렌더링 여러 기법에 대한 요약 설명,"Cartoon, NPR, Shader, Unity"
+카툰 쉐이더 Face Hair Shadow 1단계,https://zhuanlan.zhihu.com/p/232450616,얼굴에 드리우는 Hair Shadow에 대한 처리 기법 1,"Cartoon, Hair, NPR, Shader, Shadow, Stencil, Unity, ZTest"
+카툰 쉐이더 Face Hair Shadow 2단계 스텐실 기반 ZTest 상급,https://zhuanlan.zhihu.com/p/416577141,얼굴에 드리우는 Hair Shadow에 대한 처리 기법 2,"Cartoon, Hair, NPR, Shader, Shadow, Stencil, Unity, ZTest"
+카툰 쉐이더 Smoothing Normal Outline Shader,https://zhuanlan.zhihu.com/p/109101851,일반적인 노멀 Outline 간단 설명,"Cartoon, Shader, Unity"
+카툰 워터 쉐이더,https://zhuanlan.zhihu.com/p/425605759,극카툰풍 Water 쉐이더. dpath기반 form 표현,"Cartoon, NPR, Shader, Unity, Water"
+한국어 쉐이더 테크닉 자료 모음집 1,https://docs.google.com/document/d/1gpVK8AfQkiUS6-Y6v4JiR0Bp9grjPNOHo5E-lekUZjc/edit,여러가지 테크닉적 렌더 표현법,"Cartoon, Core, Hair, NPR, Pipeline, Reality, Shader, Shadow, Stencil, Unity, Water, ZTest"
