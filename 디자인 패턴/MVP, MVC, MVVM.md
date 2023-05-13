@@ -1,6 +1,6 @@
 # MVP, MVC, MVVM
 
-![MVC.png](MVP,%20MVC,%20MVVM%2060ccb43cd4d44157afc752cf3c29a220/MVC.png)
+![MVC.png](MVC.png)
 
 MVC에서 파생된 MVP/MVVM 패턴은 관심사의 분리를 통해 **Model과 View 사이의 결합도를 줄이고** **기능 단위의 응집도를 높이기** 위한 패턴입니다.
 

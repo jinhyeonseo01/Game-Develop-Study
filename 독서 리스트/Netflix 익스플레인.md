@@ -10,7 +10,7 @@
 
 </aside>
 
-![[Netflix 익스플레인](https://www.netflix.com/ca/title/80216752)](Netflix%20%E1%84%8B%E1%85%B5%E1%86%A8%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%20b39a48aa8b5b4617b002a55ddf09c881/explained.png)
+![[Netflix 익스플레인](explained.png)
 
 [Netflix 익스플레인](https://www.netflix.com/ca/title/80216752)
 

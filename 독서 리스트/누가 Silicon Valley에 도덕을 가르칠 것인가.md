@@ -11,7 +11,7 @@
 
 </aside>
 
-![크리스티나 스파노 (Cristina Spanò)](%E1%84%82%E1%85%AE%E1%84%80%E1%85%A1%20Silicon%20Valley%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A9%E1%84%83%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%A1%E1%84%85%E1%85%B3%E1%84%8E%E1%85%B5%E1%86%AF%20%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%2011e58827c231415798750b217e7d28af/22swisher-articleLarge.jpg)
+![크리스티나 스파노 (Cristina Spanò)](22swisher-articleLarge.jpg)
 
 크리스티나 스파노 (Cristina Spanò)
 
