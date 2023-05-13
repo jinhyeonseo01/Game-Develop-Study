@@ -152,7 +152,7 @@ Signature : 50 45 00 00 (’PE…’) 값을 가지며 이는 PE 파일임을 �
 
 메모리에서의 주소(VirtualAddress)와 파일에서의 주소(PointerToRawData)가 따로 존재하는데, 이는 PE 파일의 모습과 실행되어 메모리에 올라온 모습이 다르기 때문입니다.
 
-![Untitled](PE(Portable%20Executable)%206da684a439914c2aa0d9ff5d410673f1/Untitled.png)
+![Untitled](용어%20정리집/PE(Portable%20Executable)/Untitled.png)
 
 Header까지는 크기와 상대 위치가 같지만 Section에서 차이가 있습니다.****
 
@@ -177,7 +177,7 @@ DataDirectory 구조체를 보면 파일에서의 주소는 명시되어 있지 
         
 2. 해당 Section Header의 정보를 통해서 Raw를 계산한다. Raw (Data)를 구하기 위해서는 이 데이터를 포함한 Section의 시작점으로 부터 얼마나 떨어져 있는지 **Offset**을 계산해야합니다.
 
-![Untitled](PE(Portable%20Executable)%206da684a439914c2aa0d9ff5d410673f1/Untitled%201.png)
+![Untitled](용어%20정리집/PE(Portable%20Executable)/Untitled%201.png)
 
 **Offset = Virtual Address (Data) - Virtual Address (Section)**
 

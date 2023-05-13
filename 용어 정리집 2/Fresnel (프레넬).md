@@ -9,4 +9,4 @@
 
 이러한 반사 공식을 ‘Fresnel’(프레넬)이라고 부릅니다.
 
-![Untitled](Fresnel%20(%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%84%82%E1%85%A6%E1%86%AF)%2066f2a1a02aff4374983305ddd835f1bf/Untitled.png)
+![Untitled](용어%20정리집%202/Fresnel%20(프레넬)/Untitled.png)

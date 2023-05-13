@@ -3,7 +3,7 @@
 설명: 퐁 공식을 간략화한 공식 (N dot H, N: Normal Vector, H: Half Vector)
 태그: 반사 공식
 
-![Blinn-Phong.png](%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB-%E1%84%91%E1%85%A9%E1%86%BC(Blinn-Phong)%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%20d0d54c4a983b4e1db2d63c2e818eb1d3/Blinn-Phong.png)
+![Blinn-Phong.png](Blinn-Phong.png)
 
 퐁 공식을 간략화한 블린-퐁 공식은 아래와 같습니다.
 

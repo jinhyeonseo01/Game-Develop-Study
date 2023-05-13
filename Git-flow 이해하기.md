@@ -2,7 +2,7 @@
 
 Git-flow는 Git 브랜치 관리 모델 중 하나이다. 하나의 프로젝트에서 팀원들이 원활하게 협업을 할 수 있다록 브랜치를 활용하느데, 이 Git 브랜치의 관리를 쉽게할 수 있도록 패턴을 적용한 것이 Git-flow 모델이다.
 
-![Untitled](Git-flow%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%201339439b972649dd97130d1a25e25f60/Untitled.png)
+![Untitled](Git-flow%20이해하기/Untitled.png)
 
 위는 Git-flow를 사용하는 프로젝트의 히스토리를 이미지로 나타낸 것이다. 해당 이미지에서 Master, Develop, Feature, Hotfix 라는 브랜치를 확인 할 수 있다.
 

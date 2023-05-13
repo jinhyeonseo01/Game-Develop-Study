@@ -12,7 +12,7 @@
 
 x filter
 
-![Untitled](Sobel%20Operator%20(%E1%84%89%E1%85%A9%E1%84%87%E1%85%A6%E1%86%AF%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%AE%E1%86%AF)%20c9026abac98f4a0795e525cfad87785f/Untitled.png)
+![Untitled](용어%20정리집%202/Sobel%20Operator%20(소벨%20검출)/Untitled.png)
 
 | +1 | +2 | +1 |
 | --- | --- | --- |
