@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "e8a5e73ef1744480",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe609782570e1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87262c68d2a0e5b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "쉐이더 관련 서적 데이터뷰.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "897dd84ab841061f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aed20cb8ab84f649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8291ad397036d7d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f818d736f2944df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ea40a437026d0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "c74a9f537c71358d",
+    "type": "split",
+    "children": [
+      {
+        "id": "987b095ef8f40da0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a14b428c82d7a735",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "쉐이더 관련 서적 데이터뷰.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17be28aa59c711a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "쉐이더 관련 서적 데이터뷰.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7392e8c208c586a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "625bb31cb742e904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "쉐이더 관련 서적 데이터뷰.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "87262c68d2a0e5b2",
+  "lastOpenFiles": [
+    "README.md",
+    "쉐이더 관련 서적 데이터뷰.md",
+    "쉐이더 관련 서적/유니티를 통해 배우는 게임 수학.md",
+    "쉐이더 관련 서적/대마왕의 유니티 URP 셰이더 그래프 스타트업.md",
+    "쉐이더 관련 소스, 에셋 모음/무제 파일.canvas",
+    "쉐이더 관련 소스, 에셋 모음/Nilo Shader Github.md",
+    "기획 테크닉.md",
+    "데이터 뷰 테스트/무제 파일.md",
+    "Git-flow 이해하기.md",
+    "데이터 뷰 테스트",
+    "Git-flow 이해하기/Untitled.png",
+    "2023-05-13.md",
+    "독서 리스트/누가 Silicon Valley에 도덕을 가르칠 것인가.md",
+    "독서 리스트/죄와 벌/Untitled.png",
+    "각종 개발 정보/알고, 자구, 테크닉 기법/레이 마칭 (Ray Marching).md",
+    "각종 개발 정보/알고, 자구, 테크닉 기법/들로네 삼각분할.md",
+    "기타 자료 모음/UI(User Interface).md",
+    "기타 자료 모음/유니티 프로파일링 관련.md",
+    "기타 자료 모음/서적 PDF 정리.md",
+    "기타 자료 모음/레이캐스팅 모음.md",
+    "기타 자료 모음/길찾기 관련 자료 모음.md",
+    "개인 홈.md",
+    "각종 개발 정보.md",
+    "Git 명령어 목록/Git Rebase —i —interactive.md",
+    "Git 명령어 목록/Git config.md",
+    "Git 명령어 목록/제목 없음 ad588bc50aca4541b196cefb2e43dd29.md",
+    "툰 쉐이더 관련 자료 링크/UniToon.md",
+    "툰 쉐이더 관련 자료 링크/Toon Shader Graph Custom Shadow.md",
+    "툰 쉐이더 관련 자료 링크/SDF Face Shadow Video Course.md",
+    "툰 쉐이더 관련 자료 링크/SDF Face Shadow Video Course 2.md",
+    "용어 정리집/계층화 아키텍쳐/Untitled.png",
+    "용어 정리집/부동 소수점 (바이어스 표현법)/%EA%B7%B8%EB%A6%BC1.png",
+    "용어 정리집/부동 소수점 (바이어스 표현법)/Untitled.png",
+    "디자인 패턴/MVP, MVC, MVVM/MVC.png",
+    "독서 리스트/누가 Silicon Valley에 도덕을 가르칠 것인가/22swisher-articleLarge.jpg",
+    "독서 리스트/멋진 신세계/Untitled.png"
+  ]
+}

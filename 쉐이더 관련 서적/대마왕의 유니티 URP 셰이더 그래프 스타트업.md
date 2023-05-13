@@ -1,4 +1,6 @@
-# 대마왕의 유니티 URP 셰이더 그래프 스타트업
+---
+tags: "Shader"
+---
 
 Tags: Shader, Shader Graph, 게임
 간단 개요/요약: Unity URP Shader Graph 레퍼런스&기초구현 서적
